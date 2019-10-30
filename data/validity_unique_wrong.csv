@@ -1,5 +1,5 @@
-order_id,client_id,total_value
-,,230
-1,1,44
-2,,23
-,1,34
+order_id,total_value
+1,230
+1,45
+2,23
+2,34
